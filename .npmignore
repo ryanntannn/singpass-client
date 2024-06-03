@@ -1,0 +1,7 @@
+/test
+/src
+/res
+.prettierrc
+jest.config.js
+release.config.js
+tsconfig.json
