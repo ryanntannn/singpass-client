@@ -1,6 +1,6 @@
 {
   "name": "singpass-client",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A JS/TS SDK for Singpass Auth",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
